@@ -1,9 +1,10 @@
 <p align="right"><img src="Assets/banner.png" max-width = "100%" height = "auto"></p>
 <p align="left" width="150px"> I'm currently an IT student at HCM International University - VNU, majoring in Network Engineering. However, I have found my passion for UX/UI design, especially web design, and just kickstarted my career as a part-time web designer since 2022.<br>I'm using Github for school projects only.</p>
 
-###
-![](https://raw.githubusercontent.com/TracyHT/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/TracyHT/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<p align="center">
+<img src="https://github.com/TracyHT/stats/blob/master/generated/languages.svg">
+<img src="https://github.com/TracyHT/stats/blob/master/generated/overview.svg">
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-05122A?style=flat&logo=Adobe-XD)&nbsp;
