@@ -28,5 +28,8 @@
 <a href="https://www.facebook.com/thuythanh1623">
   <img align="left" alt="Tracy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://www.linkedin.com/in/thuy-huynh-thanh/">
+  <img align="left" alt="Tracy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
